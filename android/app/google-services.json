@@ -1,0 +1,135 @@
+{
+  "project_info": {
+    "project_number": "1089792972804",
+    "firebase_url": "https://astroway-diploy-42a73-default-rtdb.firebaseio.com",
+    "project_id": "astroway-diploy-42a73",
+    "storage_bucket": "astroway-diploy-42a73.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1089792972804:android:9c3b3333859939cec37d51",
+        "android_client_info": {
+          "package_name": "com.astrowaydiploy.astrologer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1089792972804-fvsthg3oosetifqrisljqlc7a8q4oe8n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.astrowaydiploy.astrologer",
+            "certificate_hash": "3646f3f63c0212742f01acdb65ef42534f864782"
+          }
+        },
+        {
+          "client_id": "1089792972804-btgernejq03856h3p73ks26up0cgcu0b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgGxJOxG4di0cLMRv7SoVUiUiLCXNSj-o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1089792972804-btgernejq03856h3p73ks26up0cgcu0b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1089792972804:android:5ea39d7acac6d764c37d51",
+        "android_client_info": {
+          "package_name": "com.astrowaydiploy.user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1089792972804-btgernejq03856h3p73ks26up0cgcu0b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgGxJOxG4di0cLMRv7SoVUiUiLCXNSj-o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1089792972804-btgernejq03856h3p73ks26up0cgcu0b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1089792972804:android:915539390a8b2eb1c37d51",
+        "android_client_info": {
+          "package_name": "com.astrowaypro.astrologer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1089792972804-btgernejq03856h3p73ks26up0cgcu0b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgGxJOxG4di0cLMRv7SoVUiUiLCXNSj-o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1089792972804-btgernejq03856h3p73ks26up0cgcu0b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1089792972804:android:913d395be10e4f9dc37d51",
+        "android_client_info": {
+          "package_name": "com.astrowaypro.user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1089792972804-btgernejq03856h3p73ks26up0cgcu0b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgGxJOxG4di0cLMRv7SoVUiUiLCXNSj-o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1089792972804-btgernejq03856h3p73ks26up0cgcu0b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
