@@ -210,6 +210,7 @@ Future<void> sendNotification({
   var accountCredentials = await loadCredentials();
   var scopes = ['https://www.googleapis.com/auth/firebase.messaging'];
   var client = http.Client();
+
   try {
     var credentials = await obtainAccessCredentialsViaServiceAccount(
         ServiceAccountCredentials.fromJson(accountCredentials), scopes, client);
@@ -476,7 +477,6 @@ Future<Map<String, String>> getApiHeaders(bool authorizationRequired,
 //     fontSize: 16.0,
 //   );
 // }
-
 
 showToast({required String message}) async {
   return EasyLoading.showToast(message);
